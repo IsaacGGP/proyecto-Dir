@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">DIR</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="msg_men_ndez_ilhuic">Menéndez Ilhuicatzi</string>
+<string name="msg_enfermedades_he">Enfermedades hepáticas</string>
+<string name="lbl_registrarse">Registrarse</string>
+<string name="lbl_20">20%</string>
+<string name="lbl_inicio">Inicio</string>
+<string name="msg_20_de_contraer">20% de contraer insuficiencia renal</string>
+<string name="msg_con_un_riesgo_d">Con un riesgo de 75%
+Fecha: 12/10/2022
+</string>
+<string name="msg_consultar_resul">Consultar resultados</string>
+<string name="msg_resultados_insu7">Resultados Insuficiencia renal 
+12/10/22</string>
+<string name="msg_insuficiencia_c">Insuficiencia cardiaca</string>
+<string name="lbl_enviar">Enviar</string>
+<string name="msg_resultados_insu6">Resultados Insuficiencia  renal
+12/05/22</string>
+<string name="lbl2">********</string>
+<string name="msg_resultados_insu5">Resultados Insuficiencia  renal
+12/06/22</string>
+<string name="msg_enfermedades_re">Enfermedades renales</string>
+<string name="lbl3"> ********</string>
+<string name="msg_resultados_insu4">Resultados Insuficiencia  renal
+12/07/22</string>
+<string name="msg_cuenta_de_usuar">Cuenta de usuario</string>
+<string name="msg_resultados_insu3">Resultados Insuficiencia  renal
+12/08/22</string>
+<string name="msg_actualizar_dato">Actualizar datos</string>
+<string name="msg_resultados_insu2">Resultados Insuficiencia  renal
+12/09/22</string>
+<string name="lbl_menu">Menu</string>
+<string name="msg_paciente_nombr2">Paciente: Nombre(s) Apellido(s)
+Correo: correo@correo.com
+Riesgos:
+Diabetes
+Precion alta
+Enfermedad renal
+Con un riesgo de 75%
+Fecha: 12/10/2022
+</string>
+<string name="msg_paciente_nombr3">Paciente: Nombre(s) Apellido(s)
+Correo: correo@correo.com
+Riesgos:
+Diabetes
+Precion alta
+Enfermedad renal
+</string>
+<string name="lbl_iniciar_sesion">Iniciar sesion</string>
+<string name="lbl_bienvenido">Bienvenido</string>
+<string name="lbl_aceptar">Aceptar</string>
+<string name="msg_paciente_nombr">Paciente: Nombre(s) Apellido(s)
+CON LOS RESULTADOS</string>
+<string name="lbl_cuenta">Cuenta</string>
+<string name="msg_marca_las_enfer">Marca las enfermedades que padezcas</string>
+<string name="lbl_ver">Ver</string>
+<string name="msg_de_contraer_ins">de contraer insuficiencia renal</string>
+<string name="msg_contemplando_lo">Contemplando los siguientes
+riesgos:
+Diabetes
+Precion alta
+Enfermedad renal</string>
+<string name="lbl_actualizar">Actualizar</string>
+<string name="msg_calculadora_de">Calculadora de riesgo</string>
+<string name="lbl_carlos_abraham">Carlos Abraham</string>
+<string name="lbl_diabetes">Diabetes</string>
+<string name="lbl_resultados">Resultados</string>
+<string name="msg_tratamientos_de">Tratamientos de cancer</string>
+<string name="lbl">*******</string>
+<string name="msg_resultados_insu">Resultados Insuficiencia  renal
+12/10/22</string>
+<string name="msg_reporte_insufic">Reporte insuficiencia renal</string>
+<string name="msg_presi_n_arteria">Presión arterial alta</string>
+<string name="lbl_enviar_reportes">Enviar reportes</string>
+<string name="msg_es_necesario_in">Es necesario iniciar sesion para almacenar sus resultados</string>
+<string name="msg_cmenendez344_gm">cmenendez344@gmail.com</string>
+</resources>
